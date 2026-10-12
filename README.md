@@ -6,7 +6,7 @@ I am currently working on a BS in  Emergency Management and Homeland Security at
 
 ## COVID-19 Case Rates by ZIP Code, New York City, 2020
 
-!Map showing COVID-19 case rates by ZIP code in New York City (images/COVID19_CaseRates_NYC_JSilk.png)
+Map showing COVID-19 case rates by ZIP code in New York City images/COVID19_CaseRates_NYC_JSilk.png
 
 *Interactive version, live as of October 2026: https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=d83793c4c0d340568beb474d9c26f042*
 
