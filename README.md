@@ -24,7 +24,7 @@ I am currently working on a BS in  Emergency Management and Homeland Security at
 
 ## 2018 Kīlauea Volcanic Eruption
 
-![Landsat imagery of the 2018 Kilauea volcanic eruption](images/kilauea eruption pic.png)
+![Landsat imagery of the 2018 Kilauea volcanic eruption](images/kilauea%20eruption%20pic.png)
 
 [Interactive version, live as of October 2026]](https://storymaps.arcgis.com/stories/f18ec9711a3e4289a19d69d90904275c)
 
