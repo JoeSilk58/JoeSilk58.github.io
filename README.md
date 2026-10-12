@@ -26,7 +26,7 @@ I am currently working on a BS in  Emergency Management and Homeland Security at
 
 ![Interactive version, live as of October 2026](images/kilauea eruption pic.png)
 
-[View the Kilauea eruption StoryMap](https://storymaps.arcgis.com/stories/f18ec9711a3e4289a19d69d90904275c)
+[Interactive version, live as of October 2026]](https://storymaps.arcgis.com/stories/f18ec9711a3e4289a19d69d90904275c)
 
 **Question:** How did the 2018 Kilauea eruption change the land surrounding the volcano? 
 
