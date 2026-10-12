@@ -6,9 +6,9 @@ I am currently working on a BS in  Emergency Management and Homeland Security at
 
 ## COVID-19 Case Rates by ZIP Code, New York City, 2020
 
-Map showing COVID-19 case rates by ZIP code in New York City images/COVID19_CaseRates_NYC_JSilk.png
+![Map showing COVID-19 case rates by ZIP code in New York City](images/COVID19_CaseRates_NYC_JSilk.png)
 
-*Interactive version, live as of October 2026: https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=d83793c4c0d340568beb474d9c26f042*
+[View the interactive COVID-19 map](https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=d83793c4c0d340568beb474d9c26f042)
 
 **Question:** What were COVID rates in New York City in 2020?
 
@@ -24,9 +24,9 @@ Map showing COVID-19 case rates by ZIP code in New York City images/COVID19_Case
 
 ## 2018 Kīlauea Volcanic Eruption
 
-!Landsat of the 2018 Kilauea volcanic eruption (images/kilauea eruption pic.png)
+![Landsat imagery of the 2018 Kilauea volcanic eruption](images/kilauea eruption pic.png)
 
-Interactive version, live as of October 2026: https://storymaps.arcgis.com/stories/f18ec9711a3e4289a19d69d90904275c
+[View the Kilauea eruption StoryMap](https://storymaps.arcgis.com/stories/f18ec9711a3e4289a19d69d90904275c)
 
 **Question:** How did the 2018 Kilauea eruption change the land surrounding the volcano? 
 
